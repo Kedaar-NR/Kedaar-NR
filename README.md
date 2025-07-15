@@ -1,8 +1,8 @@
 ## 🧠 About Me
 
-I'm a student at UC Berkeley’s M.E.T. program studying Electrical Engineering & Computer Sciences and Business.  
+I study EECS + Business at UC Berkeley's M.E.T. Program.
 
-I love building high-impact products. Always learning, always shipping.
+I build high-impact products. Always learning, always shipping.
 
 ---
 
