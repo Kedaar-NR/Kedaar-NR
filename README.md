@@ -1,6 +1,7 @@
-# Kedaar Rentachintala
+## 🧠 About Me
 
-Student @ UC Berkeley M.E.T. (EECS & Business)  
+I'm Kedaar, a student at UC Berkeley’s M.E.T. program studying Electrical Engineering & Computer Sciences and Business.  
+I love building high-impact products, collaborating with innovators, and exploring the edge of applied AI, entrepreneurship, and design.  
 Always learning, always shipping.
 
 ---
@@ -11,14 +12,6 @@ Always learning, always shipping.
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
 [![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@kedaarnr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaarr/)
-
----
-
-## 🧠 About Me
-
-I'm a student at UC Berkeley’s M.E.T. program studying Electrical Engineering & Computer Sciences and Business.  
-I love building high-impact products, collaborating with innovators, and exploring the edge of applied AI, entrepreneurship, and design.  
-Always learning, always shipping.
 
 ---
 
