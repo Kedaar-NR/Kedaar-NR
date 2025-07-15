@@ -1,7 +1,9 @@
 ## 🧠 About Me
 
-I'm Kedaar, a student at UC Berkeley’s M.E.T. program studying Electrical Engineering & Computer Sciences and Business.  
+I'm a student at UC Berkeley’s M.E.T. program studying Electrical Engineering & Computer Sciences and Business.  
+
 I love building high-impact products, collaborating with innovators, and exploring the edge of applied AI, entrepreneurship, and design.  
+
 Always learning, always shipping.
 
 ---
