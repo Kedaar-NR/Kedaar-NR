@@ -1,7 +1,7 @@
 # Kedaar Rentachintala
 
 Student @ UC Berkeley M.E.T. (EECS & Business)  
-Building at the intersection of technology and business — always learning, always shipping.
+Always learning, always shipping.
 
 ---
 
