@@ -7,10 +7,10 @@ Building at the intersection of technology and business — always learning, alw
 
 ## 🌐 Connect With Me
 
-[🚀 My Site](https://kedaar.dev) &nbsp;&nbsp;|&nbsp;&nbsp;
-[GitHub](https://github.com/kedaar-nr) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Twitter @kedaar_nr](https://twitter.com/kedaar_nr) &nbsp;&nbsp;|&nbsp;&nbsp;
-[LinkedIn](https://www.linkedin.com/in/kedaar-r/)
+[![🚀 My Site](https://img.shields.io/badge/-kedaar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://kedaar.dev)
+[![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
+[![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kedaar_nr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaar-r/)
 
 ---
 
