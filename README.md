@@ -59,3 +59,4 @@ I build high-impact products. Always learning, always shipping.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kedaar-NR&theme=default)](https://git.io/streak-stats)
