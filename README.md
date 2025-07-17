@@ -54,9 +54,8 @@ I build high-impact products. Always learning, always shipping.
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
-
 ---
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
