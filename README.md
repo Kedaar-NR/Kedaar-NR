@@ -56,5 +56,5 @@ I build high-impact products.
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
