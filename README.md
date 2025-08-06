@@ -6,7 +6,7 @@ I build high-impact products!
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me!
 
 [![🚀 My Site](https://img.shields.io/badge/-kedaar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://kedaar.dev)
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
