@@ -2,7 +2,7 @@
 
 Studying EECS + Business at UC Berkeley's M.E.T. Program.
 
-I build high-impact products!
+I build impactful products!
 
 ---
 
