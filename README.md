@@ -1,7 +1,6 @@
 ## 🧠 About Me
 
 Studying EECS + Business at UC Berkeley's M.E.T. Program.
-
 I build impactful products.
 
 ---
