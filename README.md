@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
  EECS + Business at UC Berkeley M.E.T.
-I build impactful products.
+ I build impactful products.
 
 ---
 
