@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
- EECS + Business at UC Berkeley M.E.T.
+ EECS + Business at UC Berkeley M.E.T.\
   I build impactful projects.
 
 ---
