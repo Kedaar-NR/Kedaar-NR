@@ -2,7 +2,7 @@
 
  At UC Berkeley M.E.T. majoring in EECS and Business. I love building things that I can use.
 
-  The vast majority of my projects were public before January 2025, but I’ve been adding to my public repos recently — take a look!
+  The vast majority of my projects were private before January 2025, but I’ve been adding to my public repos recently — take a look!
 
 ---
 
