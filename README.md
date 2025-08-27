@@ -1,8 +1,6 @@
 ## 🧠 About Me
 
- At UC Berkeley M.E.T. majoring in EECS and Business. 
-
-  Welcome!
+Currently at UC Berkeley M.E.T. majoring in EECS and Business. 
   
   I love building things that I can use.
 
