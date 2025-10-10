@@ -2,8 +2,6 @@
 
 Currently at **UC Berkeley M.E.T. (EECS and Business)**
   
-  Berkeley AI Research, Former Stanford AI Lab. 
-  
   Check my [**site**](https://kedaar.dev) for more!
   
   I love building things that I can use!
