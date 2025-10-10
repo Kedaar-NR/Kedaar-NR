@@ -1,7 +1,8 @@
 ## 🧠 About Me
 
-Currently at UC Berkeley M.E.T. (EECS and Business)
-Berkeley AI, Former Stanford AI. Check my [site](https://kedaar.dev) for more!
+Currently at **UC Berkeley M.E.T. (EECS and Business)**
+Berkeley AI, Former Stanford AI. 
+Check my [**site**](https://kedaar.dev) for more!
   
   I love building things that I can use!
 
