@@ -2,9 +2,9 @@
 
 Currently at **UC Berkeley M.E.T. (EECS and Business)**
   
-  Check my [**site**](https://kedaar.dev) for more!
+Check my [**site**](https://kedaar.dev) for more!
   
-  I love building things that I can use!
+I love building things that I can use!
 
 ---
 
@@ -54,6 +54,11 @@ Currently at **UC Berkeley M.E.T. (EECS and Business)**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+---
+
+## ⌨️ Typing Speed
+Average: **190 WPM**
 
 ---
 
