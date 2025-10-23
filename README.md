@@ -58,7 +58,7 @@ I love building things that I can use!
 ---
 
 ## ⌨️ Typing Speed
-Average: **190 WPM**
+Reached: **210 WPM**!
 
 ---
 
