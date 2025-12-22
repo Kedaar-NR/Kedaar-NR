@@ -1,10 +1,6 @@
-## About Me
+At UC Berkeley M.E.T. (EECS and Business)
 
-Currently at **UC Berkeley M.E.T. (EECS and Business)**
-
-Check my [site](https://kedaar.dev) for more!
-
-I love building things that I can use!
+I build what I need.
 
 [![🚀 My Site](https://img.shields.io/badge/kedaar.dev-00C853?style=flat&logo=rocket&logoColor=white)](https://kedaar.dev)
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
@@ -44,8 +40,7 @@ I love building things that I can use!
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-## Typing Speed
-Reached: 210 WPM!
+Reached: **210 WPM!**
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
