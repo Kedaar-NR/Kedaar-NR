@@ -1,4 +1,4 @@
-[![UC Berkeley M.E.T.](https://img.shields.io/badge/🐻%20-UC%20Berkeley%20M.E.T.-003262?style=flat&labelColor=FDB515)](https://met.berkeley.edu/)
+At [![UC Berkeley M.E.T.](https://img.shields.io/badge/🐻%20-UC%20Berkeley%20M.E.T.-003262?style=flat&labelColor=FDB515)](https://met.berkeley.edu/)
 ![EECS + Business](https://img.shields.io/badge/EECS%20+%20Business-6E6E6E?style=flat)
 
 I build things I’d use. 
@@ -45,3 +45,27 @@ I build things I’d use.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
+
+
+
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Web
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Infra + Data
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### ML / CV
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
