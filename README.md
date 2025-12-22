@@ -1,4 +1,4 @@
-[![Berkeley MET](https://img.shields.io/badge/🐻%20UC%20Berkeley%20M.E.T.-FDB515?style=flat&labelColor=FDB515&color=003262)](https://met.berkeley.edu/)
+[![UC Berkeley M.E.T.](https://img.shields.io/badge/🐻-UC%20Berkeley%20M.E.T.-003262?style=flat&labelColor=FDB515&logoColor=FDB515)](https://met.berkeley.edu/)
 
 I build things I’d use.
 
