@@ -2,7 +2,7 @@
 
 Currently at **UC Berkeley M.E.T. (EECS and Business)**
 
-Check my [**site**](https://kedaar.dev) for more!
+Check my [site](https://kedaar.dev) for more!
 
 I love building things that I can use!
 
