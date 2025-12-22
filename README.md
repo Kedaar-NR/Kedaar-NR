@@ -6,7 +6,7 @@ Check my [site](https://kedaar.dev) for more!
 
 I love building things that I can use!
 
-[![🚀 My Site](https://img.shields.io/badge/-kedaar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://kedaar.dev)
+[![🚀 My Site](https://img.shields.io/badge/-kedaar.dev (personal site)-000000?style=flat&logo=vercel&logoColor=white)](https://kedaar.dev)
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
 [![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@kedaarnr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaarr/)
