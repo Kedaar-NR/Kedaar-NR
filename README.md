@@ -1,22 +1,15 @@
-## 🧠 About Me
+## About Me
 
 Currently at **UC Berkeley M.E.T. (EECS and Business)**
 
 Check my [**site**](https://kedaar.dev) for more!
 
 I love building things that I can use!
----
-
-## 🌐 Connect With Me!
 
 [![🚀 My Site](https://img.shields.io/badge/-kedaar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://kedaar.dev)
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
 [![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@kedaarnr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaarr/)
-
----
-
-## 💻 Stack
 
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -56,11 +49,11 @@ I love building things that I can use!
 
 ---
 
-## ⌨️ Typing Speed
+## Typing Speed
 Reached: **210 WPM**!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
