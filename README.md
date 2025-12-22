@@ -7,22 +7,6 @@ I build things I’d use. [![🚀 My Site](https://img.shields.io/badge/kedaar.d
 [![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@kedaarnr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaarr/)
 
-<div style="display:inline-flex; align-items:center; gap:6px; padding:6px 10px; border-radius:999px; background:#111;">
-  <span style="font-size:12px; font-weight:600; color:#bbb; margin-right:4px;">
-    socials
-  </span>
-  <a href="https://github.com/kedaar-nr">
-    <img src="https://img.shields.io/badge/@kedaar--nr-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kedaarnr">
-    <img src="https://img.shields.io/badge/@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kedaarr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
