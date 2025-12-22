@@ -1,6 +1,6 @@
-At UC Berkeley M.E.T. (EECS and Business)
+UC Berkeley M.E.T. (EECS and Business)
 
-I build what I need.
+I build things I’d use.
 
 [![🚀 My Site](https://img.shields.io/badge/kedaar.dev-00C853?style=flat&logo=rocket&logoColor=white)](https://kedaar.dev)
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
