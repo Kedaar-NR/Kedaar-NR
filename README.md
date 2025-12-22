@@ -5,10 +5,12 @@ I build things I’d use.
 [![🚀 My Site](https://img.shields.io/badge/kedaar.dev-00C853?style=flat&logo=rocket&logoColor=white)](https://kedaar.dev)
 ![Typing Speed](https://img.shields.io/badge/⌨️%20210%20WPM!-F5F5DC?style=flat&labelColor=F5F5DC&logoWidth=0)
 
-
+### Socials
 [![GitHub](https://img.shields.io/badge/-@kedaar--nr-181717?style=flat&logo=github&logoColor=white)](https://github.com/kedaar-nr)
 [![Twitter](https://img.shields.io/badge/-@kedaar__nr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@kedaarnr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedaarr/)
+
+### Languages/Frameworks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -45,27 +47,4 @@ I build things I’d use.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight)
-
-
-
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### Web
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Infra + Data
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### ML / CV
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
