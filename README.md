@@ -44,8 +44,8 @@ I build things I’d use.
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight&cache_seconds=1800)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedaar-NR&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 
