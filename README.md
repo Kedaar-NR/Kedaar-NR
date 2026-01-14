@@ -44,29 +44,7 @@ I build things I’d use.
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-name: Generate profile cards
-on:
-  schedule: [{ cron: "0 6 * * *" }]
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: kedaar-nr
-          filename: metrics.svg
-          template: classic
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-
+<img src="https://raw.githubusercontent.com/kedaar-nr/kedaar-nr/main/metrics.svg" />
 
 
 
