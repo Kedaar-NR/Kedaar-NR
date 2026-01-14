@@ -44,11 +44,10 @@ I build things I’d use.
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-# GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kedaar-NR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kedaar-nr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-# Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedaar-NR&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedaar-nr&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 
