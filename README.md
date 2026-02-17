@@ -8,7 +8,7 @@ Co-Founder at [**TradeForm**](https://trade-form.com).
 [![🚀 My Site](https://img.shields.io/badge/kedaar.dev-00C853?style=flat&logo=rocket&logoColor=white)](https://kedaar.dev)
 ![Typing Speed](https://img.shields.io/badge/⌨️%20210%20WPM!-F5F5DC?style=flat&labelColor=F5F5DC&logoWidth=0)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kedaar-NR&card_width=350&card_height=90)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kedaar-NR&hide_border=true&card_width=700&card_height=150)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/kedaar-nr/kedaar-nr/main/metrics.svg" />
 
