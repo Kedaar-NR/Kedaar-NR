@@ -3,7 +3,7 @@
 
 I build things I’d use. 
 
-Co-Founder at [**TradeForm**](https://trade-form.com)
+Co-Founder at [**TradeForm**](https://trade-form.com).
 
 [![🚀 My Site](https://img.shields.io/badge/kedaar.dev-00C853?style=flat&logo=rocket&logoColor=white)](https://kedaar.dev)
 ![Typing Speed](https://img.shields.io/badge/⌨️%20210%20WPM!-F5F5DC?style=flat&labelColor=F5F5DC&logoWidth=0)
