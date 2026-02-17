@@ -3,7 +3,7 @@
 ![EECS + Business](https://img.shields.io/badge/EECS%20+%20Business-6E6E6E?style=flat)
 
 
-I build things I’d use. 
+I build things I would use.
 
 Co-Founder at [**TradeForm**](https://trade-form.com).
 
