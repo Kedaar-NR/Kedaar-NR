@@ -6,6 +6,7 @@
 I build things I would use.
 
 Co-Founder at [**TradeForm**](https://trade-form.com).
+Backed by Z Fellows and a number of incredible deep-tech angels.
 
 
 
