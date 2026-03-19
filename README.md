@@ -5,4 +5,3 @@
 Co-Founder at [**TradeForm**](https://trade-form.com).
 
 I build things I would use.
-
